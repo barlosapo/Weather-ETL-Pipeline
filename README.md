@@ -11,7 +11,9 @@ Cleared to implement for other folks with a weather station and are unable to li
 
 To any experts out there feel free to provide feedback always looking to improve my skillset!
 
-Back end was originally done in Python but had a need for data storage and ended up going with Supabase to store and recall any data i need. Front end was all done using claude! :)
+Back end was originally done in Python but wanted to experiment with Supabase so decided to implement it in this final release. 
+
+Front end was all done using claude! :)  (i plan on redoing it once i get into front end in my spare time)
 
 ## What it does
 
