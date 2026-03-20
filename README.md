@@ -32,7 +32,7 @@ Davis VP2 Station
       |
       | serial
       v
-WeatherLink Software  (generates Current_Vantage_Pro.htm locally)
+WeatherLink Software  (generates Current_Vantage_Pro.htm file in local device, yours will obviously be different)
       |
       | file read
       v
