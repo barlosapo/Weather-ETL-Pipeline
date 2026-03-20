@@ -75,7 +75,8 @@ weather-station/
 
 ### `weather_pusher.py`
 
-The heart of the system. Responsibilities:
+The engine of the whole jazz. (Needed to do this bc of the limited access i had -.-) 
+Responsibilities:
 
 1. **Parse** — reads `Current_Vantage_Pro.htm` using BeautifulSoup and maps HTML label text to database field names via a `label_map` dictionary
 2. **Clean** — handles unit stripping, null values, and type coercion
